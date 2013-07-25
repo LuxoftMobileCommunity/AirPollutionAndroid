@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">projekt_android</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="popup_name">Select Station</string>
+    <string name="nearest_station">Nearest</string>
+    <string name="stacja1">stacja1</string>
+    <string name="stacja2">stacja2</string>
+
+</resources>
